@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phone-list-searcher/static/css/main.77ad1f1b.css",
+    "main.js": "/phone-list-searcher/static/js/main.a8dd3351.js",
+    "index.html": "/phone-list-searcher/index.html",
+    "main.77ad1f1b.css.map": "/phone-list-searcher/static/css/main.77ad1f1b.css.map",
+    "main.a8dd3351.js.map": "/phone-list-searcher/static/js/main.a8dd3351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ad1f1b.css",
+    "static/js/main.a8dd3351.js"
+  ]
+}
